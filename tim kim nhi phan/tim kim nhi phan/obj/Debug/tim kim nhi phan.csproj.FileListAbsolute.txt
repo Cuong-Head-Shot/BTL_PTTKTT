@@ -1,0 +1,7 @@
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\tim kim nhi phan\tim kim nhi phan\bin\Debug\tim kim nhi phan.exe.config
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\tim kim nhi phan\tim kim nhi phan\bin\Debug\tim kim nhi phan.exe
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\tim kim nhi phan\tim kim nhi phan\bin\Debug\tim kim nhi phan.pdb
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\tim kim nhi phan\tim kim nhi phan\obj\Debug\tim kim nhi phan.csproj.AssemblyReference.cache
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\tim kim nhi phan\tim kim nhi phan\obj\Debug\tim kim nhi phan.csproj.CoreCompileInputs.cache
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\tim kim nhi phan\tim kim nhi phan\obj\Debug\tim kim nhi phan.exe
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\tim kim nhi phan\tim kim nhi phan\obj\Debug\tim kim nhi phan.pdb

@@ -1,0 +1,6 @@
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\Nhan 2 so nguyen lon\Nhan 2 so nguyen lon\bin\Debug\Nhan 2 so nguyen lon.exe.config
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\Nhan 2 so nguyen lon\Nhan 2 so nguyen lon\bin\Debug\Nhan 2 so nguyen lon.exe
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\Nhan 2 so nguyen lon\Nhan 2 so nguyen lon\bin\Debug\Nhan 2 so nguyen lon.pdb
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\Nhan 2 so nguyen lon\Nhan 2 so nguyen lon\obj\Debug\Nhan 2 so nguyen lon.csproj.CoreCompileInputs.cache
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\Nhan 2 so nguyen lon\Nhan 2 so nguyen lon\obj\Debug\Nhan 2 so nguyen lon.exe
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\Nhan 2 so nguyen lon\Nhan 2 so nguyen lon\obj\Debug\Nhan 2 so nguyen lon.pdb
